@@ -1,0 +1,12 @@
+{
+    "name" : "Flogo",
+    "description" : "Awesome event-driven application builder.",
+    "image" : "https://ipfs.io/ipfs/QmV5F12oxAq3ki2Pz4zF2wo4Cn3HoZzGL5r8hDoKLLEFDr?filename=flogo.png",
+    "attributes" : [ {
+      "trait_type" : "Programming Language",
+      "value" : "Golang"
+    }, {
+      "trait_type" : "Website",
+      "value" : "http://www.flogo.io/"
+    } ]
+}

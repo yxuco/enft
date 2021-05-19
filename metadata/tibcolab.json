@@ -1,0 +1,9 @@
+{
+    "name" : "TIBCOLab",
+    "description" : "Customer and partner-driven innovations with TIBCO.",
+    "image" : "https://ipfs.io/ipfs/QmUKpXTahUTHMt651HHe4RqsorUrukKuVTU5RMzFkzFp5p?filename=tibcolab.png",
+    "attributes" : [ {
+      "trait_type" : "Website",
+      "value" : "https://www.tibco.com/tibco-labs"
+    } ]
+}
