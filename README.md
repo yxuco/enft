@@ -29,6 +29,18 @@ npx hardhat (select create an empty hardhat.config.js)
 mkdir contracts scripts metadata
 ```
 
+We use [infura](https://infura.io/), [MetaMask](https://metamask.io/) and [etherscan](https://etherscan.io/) to deploy, view and test the contract. So, create a free account on each of the sites.
+
+Create `.env` file at the root of the project and specify the following parameters.
+
+```properties
+API_URL="https://rinkeby.infura.io/v3/<infura projectId for rinkeby test net>"
+PRIVATE_KEY="<private key from metamask account details>"
+PUBLIC_KEY="<metamask account address>"
+ETHERSCAN_API_KEY="<etherscan app key"
+ENFT_ADDRESS="<contract address returned by deploying the sample contract>"
+```
+
 ## Implement smart contract
 
 Create and edit contract [ENFT.sol](./contracts/ENFT.sol).
