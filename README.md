@@ -1,5 +1,7 @@
 # Sample NFT
 
+Develop an NFT contract by using [hardhat](https://hardhat.org) and [ethers.js](https://docs.ethers.io/v5).
+
 ## Install node using nvm
 
 Following instruction in <https://github.com/nvm-sh/nvm> to install `nvm`.
@@ -21,7 +23,7 @@ cd enft
 npm init
 ```
 
-Initialize `hardhat` configuration:
+Initialize [hardhat](https://hardhat.org) configuration:
 
 ```bash
 npm install --save-dev hardhat
