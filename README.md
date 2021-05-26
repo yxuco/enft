@@ -146,7 +146,7 @@ It prints out the hash for [tibcolab.json](./metadata/tibcolab.json).
 {"Name":"tibcolab.json","Hash":"Qme3QJ9H43kVDDRNrVtbJXo5uUuzqWY2JJyfkqfEHRozf6","Size":"336"}
 ```
 
-Create and edit script [mint.js](./scripts/mint.js).
+Create and edit script [mint.js](./scripts/mint.js), then execute the script to mint some tokens on the Rinkeby testnet.
 
 ```bash
 cd scripts
