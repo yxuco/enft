@@ -2,6 +2,8 @@
 
 Develop an NFT contract by using [hardhat](https://hardhat.org) and [ethers.js](https://docs.ethers.io/v5).  For fullstack dApp development, you can checkout the UI project [enftapp](https://github.com/yxuco/enftapp) that implements a [React](https://reactjs.org/) UI to interact with this sample NFT contract.
 
+The contract is deployed on `Rinkeby` test net, and can be viewed on [etherscan](https://rinkeby.etherscan.io/address/0xc98e641bbbfab95bd118da10c4d26cdc3f1bd387#code).  Tokens are also listed in marketplace, e.g., [opensea](https://testnets.opensea.io/collection/enft).
+
 ## Install node using nvm
 
 Following instruction in <https://github.com/nvm-sh/nvm> to install `nvm`.
