@@ -1,6 +1,6 @@
 # Sample NFT
 
-Develop an NFT contract by using [hardhat](https://hardhat.org) and [ethers.js](https://docs.ethers.io/v5).
+Develop an NFT contract by using [hardhat](https://hardhat.org) and [ethers.js](https://docs.ethers.io/v5).  For fullstack dApp development, you can checkout the UI project [enftapp](https://github.com/yxuco/enftapp) that implements a [React](https://reactjs.org/) UI to interact with this sample NFT contract.
 
 ## Install node using nvm
 
